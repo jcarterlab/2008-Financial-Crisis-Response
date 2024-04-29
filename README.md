@@ -4,4 +4,4 @@ This notebook visualizes responses to the 2008 financial crisis in terms of inte
 
 - The notebook used to access the OECD API can be found [here.](oecd_api_.ipynb)
 - The SQL script used to manipulate the data can be found [here.](responses.sql)
-- The data visualization notebook can be found [here.](visualize_data.ipynb.ipynb)
+- The data visualization notebook can be found [here.](visualize_data.ipynb)
